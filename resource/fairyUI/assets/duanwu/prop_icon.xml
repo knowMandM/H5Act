@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="78,78">
+  <displayList>
+    <image id="n7_n15n" name="img_bg" src="n15n3o" fileName="img/hd_duihuan_zbkuai.png" xy="0,0" size="78,78"/>
+    <loader id="n6_n15n" name="loader_icon" xy="7,0" size="50,30" scale="0.8,0.8" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n3_11w03" name="txt_num" xy="1,50" size="71,25" font="微软雅黑" fontSize="16" color="#006600" align="right" vAlign="middle" autoSize="none" strokeColor="#ffffff" text="100/1"/>
+    <component id="n8_nww1" name="btn_info" src="11w03f" fileName="btn_award.xml" xy="0,0" size="78,77" locked="true"/>
+  </displayList>
+</component>

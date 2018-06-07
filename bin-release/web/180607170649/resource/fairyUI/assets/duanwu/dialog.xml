@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="480,270" pivot="0.5,0.5" anchor="true" bgColor="#009933">
+  <displayList>
+    <image id="n5_nww1" name="img_bg" src="n15n3p" fileName="img/hd_fenlan_huala.png" xy="-10,-5" size="499,283"/>
+    <text id="n6_nww1" name="txt_msg" xy="36,41" size="407,154" fontSize="25" color="#003300" align="center" vAlign="middle" autoSize="none" text="兑换成功，获得[银子x50]"/>
+    <component id="n8_nww1" name="frame" src="nww13y" fileName="dialog_frame.xml" xy="0,0">
+      <relation target="n8_nww1" sidePair="center-center,middle-middle"/>
+      <relation target="n6_nww1" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n9_nww1" name="n9" src="nww140" fileName="img/Hall_TitleBG2.png" xy="88,-7" scale="0.7,0.7"/>
+    <text id="n10_nww1" name="n10" xy="205,5" size="69,32" fontSize="25" color="#9d4d2e" align="center" vAlign="middle" text="提  示"/>
+  </displayList>
+</component>

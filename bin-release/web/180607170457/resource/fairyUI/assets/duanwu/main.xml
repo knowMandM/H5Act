@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="724,515" bgColorEnabled="true" bgColor="#0099ff" adaptationTest="FitWidthAndSetMiddle">
+  <displayList>
+    <image id="n5_n15n" name="n5" src="n15n3t" fileName="img/hd_ditu_duanwu.jpg" xy="0,0"/>
+    <component id="n10_nww1" name="scroll" src="n15n3v" fileName="scroll.xml" xy="21,220"/>
+    <component id="n11_rvjk" name="n11" src="rvjk44" fileName="active_desc.xml" xy="-2,46" size="724,172"/>
+  </displayList>
+</component>

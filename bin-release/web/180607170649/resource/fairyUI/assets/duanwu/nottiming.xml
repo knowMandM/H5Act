@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="724,515">
+  <displayList>
+    <image id="n0_zbdg" name="n0" src="n15n3t" fileName="img/hd_ditu_duanwu.jpg" xy="-1,-1"/>
+    <text id="n4_zbdg" name="text_tip" xy="15,336" size="691,43" font="微软雅黑" fontSize="30" color="#015e5b" align="center" autoSize="none" strokeColor="#ffffff" text="活动还未开始，敬请期待..."/>
+    <component id="n5_rvjk" name="n5" src="rvjk44" fileName="active_desc.xml" xy="0,53" size="724,162"/>
+  </displayList>
+</component>
