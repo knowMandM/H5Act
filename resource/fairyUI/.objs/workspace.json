@@ -1,4 +1,15 @@
 {
+	"expanded_nodes": [
+		"3fafx742",
+		"/",
+		"gf3zu3ev",
+		"/"
+	],
+	"active_doc": [
+		"3fafx742",
+		"zbdg43"
+	],
+	"hidden_packages": [],
 	"docs": [
 		"3fafx742",
 		"nww13x",
@@ -16,16 +27,5 @@
 		"nww142",
 		"3fafx742",
 		"zbdg43"
-	],
-	"expanded_nodes": [
-		"3fafx742",
-		"/",
-		"gf3zu3ev",
-		"/"
-	],
-	"active_doc": [
-		"3fafx742",
-		"zbdg43"
-	],
-	"hidden_packages": []
+	]
 }

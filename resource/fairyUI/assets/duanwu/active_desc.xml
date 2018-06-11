@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="724,200">
   <displayList>
-    <richtext id="n0_rvjk" name="n0" xy="148,56" size="568,64" touchable="false" font="微软雅黑" fontSize="22" color="#015e5b" leading="5" autoSize="none" strokeColor="#ffffff" text="活动期间，对局有几率获得端午道具（场次级别越高，掉落几率越大，数量越多），收集即可兑换银两、礼卷。"/>
+    <richtext id="n0_rvjk" name="n0" xy="148,56" size="568,64" touchable="false" font="微软雅黑" fontSize="22" color="#015e5b" leading="5" autoSize="none" strokeColor="#ffffff" text="活动期间，对局有几率获得端午道具（场次级别越高，掉落几率越大，数量越多），收集即可兑换银两、礼券。"/>
     <text id="n1_rvjk" name="n1" xy="33,124" size="554,34" font="微软雅黑" fontSize="22" color="#015e5b" strokeColor="#ffffff" text="活动时间：2018年6月18日00:00 - 2018年7月2日00:00"/>
     <text id="n2_rvjk" name="n2" xy="33,57" size="115,34" font="微软雅黑" fontSize="22" color="#015e5b" strokeColor="#ffffff" text="活动内容："/>
   </displayList>
