@@ -1,0 +1,120 @@
+{
+	"taskDescription":[
+		{
+			"propIDList":[
+				{
+					"propID":1,
+					"name":"粽子"
+				},
+				{
+					"propID":2,
+					"name":"粽叶"
+				},
+				{
+					"propID":3,
+					"name":"粽绳"
+				},
+				{
+					"propID":4,
+					"name":"红枣"
+				}
+			],
+			"awardList":[
+				{
+					"awardType":1,
+					"typeName":"银子"
+				},
+				{
+					"awardType":2,
+					"typeName":"礼券"
+				}
+			]
+		}
+	],
+	"taskList" : [
+		{
+			"ID":1,
+			"order": 1,
+			"propList":[
+				{
+					"propID":1,
+					"needNum":1
+				}
+			],
+			"maxGainCount": 30,
+			"award":{
+				"awardType:":1,
+				"awardCount":50
+			}
+		},
+		{
+			"ID":2,
+			"order": 2,
+			"propList":[
+				{
+					"propID":1,
+					"needNum":1
+				},
+				{
+					"propID":2,
+					"needNum":1
+				}
+			],
+			"maxGainCount": 30,
+			"award":{
+				"awardType:":2,
+				"awardCount":1
+			}
+		},
+		{
+			"ID":3,
+			"order": 3,
+			"propList":[
+				{
+					"propID":1,
+					"needNum":1
+				},
+				{
+					"propID":2,
+					"needNum":1
+				},
+				{
+					"propID":3,
+					"needNum":1
+				}
+			],
+			"maxGainCount": 30,
+			"award":{
+				"awardType:":1,
+				"awardCount":150
+			}			
+		},
+		{
+			"ID":4,
+			"order": 4,
+			"propList":[
+				{
+					"propID":1,
+					"needNum":1
+				},
+				{
+					"propID":2,
+					"needNum":1
+				},
+				{
+					"propID":3,
+					"needNum":1
+				},
+				{
+					"propID":4,
+					"needNum":1
+				}
+			],
+			"maxGainCount": 30,
+			"award":{
+				"awardType:":2,
+				"awardCount":2
+			}	
+		}
+	]
+}
