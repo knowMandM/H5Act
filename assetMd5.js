@@ -1,7 +1,7 @@
 /**
  * @assetMd5
  * @author  stylehuan
- * @create  2016-07-07 15:45
+ * @create  2016-07-07 15:45 
  */
 var fs = require("fs");
 var path = require("path");

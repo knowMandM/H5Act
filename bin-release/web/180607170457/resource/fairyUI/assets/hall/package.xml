@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<packageDescription id="gf3zu3ev" jpegQuality="80" compressPNG="true">
-  <resources>
-    <component id="tqt20" name="MainS.xml" path="/" exported="true"/>
-    <image id="tqt21" name="bg.jpg" path="/"/>
-  </resources>
-  <publish name="hall" path="E:\git_code\H5Projects\TestH5\Game\resource\ui"/>
-</packageDescription>

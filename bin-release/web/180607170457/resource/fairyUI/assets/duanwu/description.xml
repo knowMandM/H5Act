@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component size="480,134">
-  <displayList>
-    <image id="n0_nww1" name="n0" src="nww141" fileName="img/Proxy_AccountFatherBG.png" xy="-7,3"/>
-    <text id="n1_nww1" name="txt_title" xy="9,10" size="461,32" font="微软雅黑" fontSize="25" color="#336633" align="center" autoSize="none" text="粽米"/>
-    <text id="n2_nww1" name="txt_content" xy="7,45" size="468,79" font="微软雅黑 Light" fontSize="20" color="#ff0000" vAlign="middle" autoSize="none" text="任意玩法的初级、中级、高级场中对局有几率获得"/>
-  </displayList>
-</component>

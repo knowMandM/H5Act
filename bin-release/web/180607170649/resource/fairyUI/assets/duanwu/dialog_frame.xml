@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component size="480,270">
-  <displayList>
-    <component id="n0_nww1" name="closeButton" src="11w03f" fileName="btn_award.xml" xy="161,178">
-      <Button title="确   定" titleFontSize="25" icon="ui://3fafx74211w03g"/>
-    </component>
-  </displayList>
-</component>

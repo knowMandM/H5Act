@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component size="740,150">
-  <displayList>
-    <component id="n0_x6y0" name="n0" src="x6y01" xy="0,0"/>
-    <component id="n1_x6y0" name="n1" src="x6y04" xy="0,50"/>
-    <component id="n2_x6y0" name="n2" src="x6y05" xy="0,100"/>
-  </displayList>
-</component>

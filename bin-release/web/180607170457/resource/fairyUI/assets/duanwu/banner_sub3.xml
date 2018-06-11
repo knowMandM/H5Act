@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component size="740,50" bgColorEnabled="true" bgColor="#00cc66">
-  <displayList>
-    <graph id="n1_x6y0" name="n1" xy="0,0" size="740,50" type="rect" lineSize="0" fillColor="#ff00cc66"/>
-    <richtext id="n0_x6y0" name="n0" xy="0,0" size="740,50" font="微软雅黑" fontSize="18" vAlign="middle" autoSize="none" text="活动时间：2018年6月18日00:00:00 -- 2018年7月1日00:00:00"/>
-  </displayList>
-</component>

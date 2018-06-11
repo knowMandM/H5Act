@@ -30,8 +30,8 @@
 		]
 	},
 	"actID": 860,
-	"validDate":20180605,
-	"expiredDate":20180915,
+	"validDate":20180401,
+	"expiredDate":20181205,
 	"taskList": [
 		{
 			"taskID": 1,
@@ -39,14 +39,14 @@
 			"propList": [
 				{
 					"propID": 1,
-					"needNum": 1
+					"needNum": 2
 				},
 				{
 					"propID": 2,
-					"needNum": 1
+					"needNum": 2
 				}
 			],
-			"maxGainCount": 10,
+			"maxGainCount": 999,
 			"award": {
 				"awardType": 1,
 				"awardCount": 100
@@ -58,21 +58,21 @@
 			"propList": [
 				{
 					"propID": 1,
-					"needNum": 1
+					"needNum": 6
 				},
 				{
 					"propID": 2,
-					"needNum": 1
+					"needNum": 6
 				},
 				{
 					"propID": 3,
-					"needNum": 1
+					"needNum": 6
 				}
 			],
-			"maxGainCount": 10,
+			"maxGainCount": 999,
 			"award": {
 				"awardType": 2,
-				"awardCount": 3
+				"awardCount": 10
 			}
 		},
 		{
@@ -81,25 +81,25 @@
 			"propList": [
 				{
 					"propID": 1,
-					"needNum": 1
+					"needNum": 48
 				},
 				{
 					"propID": 2,
-					"needNum": 1
+					"needNum": 48
 				},
 				{
 					"propID": 3,
-					"needNum": 1
+					"needNum": 48
 				},
 				{
 					"propID": 4,
-					"needNum": 1
+					"needNum": 48
 				}
 			],
-			"maxGainCount": 10,
+			"maxGainCount": 999,
 			"award": {
 				"awardType": 2,
-				"awardCount": 5
+				"awardCount": 100
 			}
 		}
 	]

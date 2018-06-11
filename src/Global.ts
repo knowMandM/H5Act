@@ -5,8 +5,8 @@ class Global{
     public static VER_BUILDNO: number = 20140603;
     public static GAME_ID: number = 470;
 
-    public static ServerIp: string = "192.168.10.29"  //"120.24.102.9"; h5assistmpsvr's ip
-    public static ServerPort: number = 1852      //60674;
+    public static ServerIp: string = '115.28.62.247' //"115.28.62.247"   h5assistmpsvr's ip
+    public static ServerPort: number = 60116      //60674;
 
     public static IsBrowser: boolean = false;
 

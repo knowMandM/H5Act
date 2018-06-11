@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component size="680,270">
-  <displayList>
-    <component id="n3_n15n" name="obj_item0" src="x6y07" fileName="award_item.xml" xy="-2,3"/>
-    <component id="n4_n15n" name="obj_item1" src="x6y07" fileName="award_item.xml" xy="-2,95"/>
-    <component id="n5_n15n" name="obj_item2" src="x6y07" fileName="award_item.xml" xy="-2,187"/>
-  </displayList>
-</component>

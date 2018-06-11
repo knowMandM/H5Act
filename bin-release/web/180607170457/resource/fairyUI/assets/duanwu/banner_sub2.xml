@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component size="740,50" bgColorEnabled="true" bgColor="#339900">
-  <displayList>
-    <graph id="n1_x6y0" name="n1" xy="0,0" size="740,50" type="rect" lineSize="0" fillColor="#ff339900"/>
-    <richtext id="n0_x6y0" name="n0" xy="0,0" size="740,50" font="微软雅黑" fontSize="18" vAlign="middle" autoSize="none" text="活动内容：活动期间，对局有几率掉落“粽叶，粽绳，粽米，红枣”，收集可兑换极品奖励"/>
-  </displayList>
-</component>
